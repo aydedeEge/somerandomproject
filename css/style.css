@@ -1,0 +1,13 @@
+/*CUSTOM STYLING*/
+
+/****Full Page Changes****/
+#page_container{
+	max-width: 960px;
+	padding: 10px 10px 10px 10px;
+}
+
+/****Banner****/
+.centre{
+	text-align: center;
+	margin: 0px auto 0px;
+}
